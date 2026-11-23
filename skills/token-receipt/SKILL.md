@@ -19,7 +19,7 @@ The installed skill should be treated as a global-first invocation path unless t
 If the bundled `scripts/generate.sh` helper is missing, tell the user to install the skill with:
 
 ```bash
-npx skills add ameyalambat128/token-receipt --skill token-receipt
+npx skills add ameyalambat/token-receipt --skill token-receipt
 ```
 
 On first run, the helper script downloads the standalone Token Receipt runtime into `~/Library/Application Support/token-receipt/bin/token-receipt`. Cached downloads go in `~/Library/Caches/token-receipt/`.

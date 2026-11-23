@@ -97,7 +97,7 @@ function Divider() {
 
 export default async function Home() {
   const installCommand =
-    "npx skills add ameyalambat128/token-receipt --skill token-receipt";
+    "npx skills add ameyalambat/token-receipt --skill token-receipt";
   const agentPromptShort = "/token-receipt";
   const agentPrompt =
     "/token-receipt Generate a receipt for my last 30 days of Codex, Claude Code, Kiro CLI, and Cursor usage.";
@@ -366,7 +366,7 @@ export default async function Home() {
             </p>
             <div className="flex gap-4">
               <Link
-                href="https://github.com/ameyalambat128/token-receipt"
+                href="https://github.com/ameyalambat/token-receipt"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm text-gray-400 transition-colors hover:text-white hover:underline"
@@ -395,7 +395,7 @@ export default async function Home() {
 
             <div className="mt-10 flex flex-wrap gap-4 text-sm text-gray-500">
               <Link
-                href="https://github.com/ameyalambat128/token-receipt"
+                href="https://github.com/ameyalambat/token-receipt"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 transition-colors hover:text-white"

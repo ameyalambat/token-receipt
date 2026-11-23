@@ -21,7 +21,7 @@ Before releasing:
 2. Make sure the public install path is still:
 
 ```bash
-npx skills add ameyalambat128/token-receipt --skill token-receipt
+npx skills add ameyalambat/token-receipt --skill token-receipt
 ```
 
 3. Make sure the canonical skill package is still:
@@ -104,7 +104,7 @@ After the workflow completes:
 4. Confirm the public install docs still point at:
 
 ```bash
-npx skills add ameyalambat128/token-receipt --skill token-receipt
+npx skills add ameyalambat/token-receipt --skill token-receipt
 ```
 
 5. Smoke test the install flow on a clean machine or a temporary override path:
