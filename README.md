@@ -19,7 +19,7 @@ It parses local agent logs, scores the most defensible forms of waste, renders a
 Recommended public install:
 
 ```bash
-npx skills add ameyalambat128/token-receipt --skill token-receipt
+npx skills add ameyalambat/token-receipt --skill token-receipt
 ```
 
 On first use, the skill downloads the standalone macOS arm64 runtime from GitHub Releases.

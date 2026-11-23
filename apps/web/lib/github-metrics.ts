@@ -1,6 +1,6 @@
 import "server-only";
 
-const repoOwner = "ameyalambat128";
+const repoOwner = "ameyalambat";
 const repoName = "token-receipt";
 const runtimeAssetName = "token-receipt-darwin-arm64.tar.gz";
 const repoUrl = `https://github.com/${repoOwner}/${repoName}`;

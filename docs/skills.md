@@ -5,7 +5,7 @@
 Recommended install via `skills.sh`:
 
 ```bash
-npx skills add ameyalambat128/token-receipt --skill token-receipt
+npx skills add ameyalambat/token-receipt --skill token-receipt
 ```
 
 This installs the canonical skill package from `skills/token-receipt/`.
